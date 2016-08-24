@@ -1,6 +1,9 @@
 name: Mamma's Closet
 layout_spectrum: 0.29680254335883716
 typography_spectrum: 0.19096398155702776
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#2C3E50'
@@ -12,3 +15,10 @@ color:
   lightness: 0.08652667859919916
   saturation: 0.10930811324826573
   rhythmicContrast: 0.10997283217530429
+title: What will you find inside?
+author:
+  name: ''
+  url: bitly/mybobwhite
+  email: bobwhiteorganics@gmail.com
+content_rating:
+  adult: false
