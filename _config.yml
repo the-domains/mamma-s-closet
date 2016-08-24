@@ -1,0 +1,14 @@
+name: Mamma's Closet
+layout_spectrum: 0.29680254335883716
+typography_spectrum: 0.19096398155702776
+color:
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.03928252268447241
+  lightness: 0.08652667859919916
+  saturation: 0.10930811324826573
+  rhythmicContrast: 0.10997283217530429
